@@ -4,7 +4,7 @@ import { DataGrid, GridColDef, GridToolbar, GridValueGetterParams } from '@mui/x
 
 const DataTablePage = () => {
 
-     
+     ""
     const columns :GridColDef[] = [
         { field: 'id', headerName: 'ID', width: 90 },
         {
